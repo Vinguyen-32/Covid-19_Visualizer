@@ -17,6 +17,10 @@ app.get('/data/gender', (req, res) => {
     return res.send(retrievedData.gender);
 })
 
+app.get('/', (req, res) =>{
+    return res.sendFile(__dirname + "/charts.html")
+})
+
 app.get('/data/race', (req, res) => {
     return res.send(retrievedData.race || {});
 })
