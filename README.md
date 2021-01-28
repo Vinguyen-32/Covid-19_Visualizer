@@ -4,4 +4,5 @@ Covid-19 Visualizer is a Nodejs-powered informative website that crawls real tim
 <br />
 Our Web Application is available [here!](http://34.216.18.166:3000/)
 <img width="874" alt="Screenshot1" src="https://user-images.githubusercontent.com/65844160/106071230-cf1e8700-60ba-11eb-9006-8780613a96bb.png">
-<img width="695" alt="Screenshot2" src="https://user-images.githubusercontent.com/65844160/106072124-751ec100-60bc-11eb-899e-2ca70cea817f.png">
+
+<img width="833" alt="Screenshot3" src="https://user-images.githubusercontent.com/65844160/106072223-a4cdc900-60bc-11eb-970a-e6cce19a9b67.png">
